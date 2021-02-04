@@ -1,4 +1,3 @@
 # Jenkins-Demo
 
-testing
-testing2
+deleted
